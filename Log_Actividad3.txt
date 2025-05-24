@@ -1,0 +1,11 @@
+Y-05-23 17:55:31 ------- Inicio de ejecución del script ---------
+Y-05-23 17:55:34 -Tarea completada con éxito
+Y-05-23 17:55:34 -IP: 0.0.0.0 - Resultado: La IP 0.0.0.0 no cuenta con reportes de abuso
+Y-05-23 17:55:34 -IP: 104.154.127.247 - Resultado: La IP 104.154.127.247 tiene reporte con nivel de abuso de 33
+Y-05-23 17:55:35 -IP: 127.0.0.1 - Resultado: La IP 127.0.0.1 no cuenta con reportes de abuso
+Y-05-23 17:55:35 --------- Fin de ejecución del script -----
+Y-05-23 18:23:47 ------- Inicio de ejecución del script ---------
+Y-05-23 18:23:48 -IP: 185.220.101.1 - Resultado: La IP 185.220.101.1 tiene reporte con nivel de abuso de 100
+Y-05-23 18:23:48 -IP: 45.155.205.240 - Resultado: La IP 45.155.205.240 no cuenta con reportes de abuso
+Y-05-23 18:23:48 -IP: 185.220.101.4 - Resultado: La IP 185.220.101.4 tiene reporte con nivel de abuso de 100
+Y-05-23 18:23:48 --------- Fin de ejecución del script -----
